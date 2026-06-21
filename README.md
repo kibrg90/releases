@@ -43,6 +43,18 @@ adb install -r acelink-v0.1.0.apk
   AceStream app.
 - **Manage** — rename / delete channels, re-scrape / delete sources, prune dead mirrors.
 
+## 🔗 Possible sources
+
+Paste any of these into **Add source** — the driver type is auto-detected:
+
+- **acestreamid.com** — `https://acestreamid.com/`
+  A large **channel index**: the page has no ids itself, but lists channels whose AceStream ids
+  live on per-channel sub-pages. AceLink detects the index and opens the **channel picker**, then
+  crawls only the channels you select.
+- A **web page** containing `acestream://` links or 40-char content ids.
+- A **playlist URL** or a local **`.m3u` / `.m3u8`** file.
+- A single **direct link** — `acestream://<id>` or a bare 40-char content id.
+
 ---
 
 _Personal / hobby project. No content is hosted — AceLink only browses and plays sources you add._
