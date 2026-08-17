@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/kibrg90/acelink-releases/releases/download/acelink-v0.2.5/acelink-7.apk",
-  "sha256": "6a9bf0248b3a1fa407fc9e29d3d72214ba1be73c9bdecea7ccedcf88b0cd261a",
+  "versionCode": 8,
+  "versionName": "0.2.6",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/acelink-v0.2.6/acelink-8.apk",
+  "sha256": "d3fc184d0e03551d2e1d0a5cb7ce21be2628c1e39c47783c3cd461eb5c7f499c",
   "sizeBytes": 4077074,
-  "publishedAt": "2026-08-17T04:15:40Z",
-  "notes": "AceLink 0.2.5"
+  "publishedAt": "2026-08-17T05:10:08Z",
+  "notes": "In-app update checking: AceLink now tells you when a newer build is available."
 }
