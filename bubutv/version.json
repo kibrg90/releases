@@ -1,0 +1,9 @@
+{
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.7/bubutv-8.apk",
+  "sha256": "2aa711cc013f1739bd299e759d9055c786692518e84ae5006be7d4fc0ea62223",
+  "sizeBytes": 9241343,
+  "publishedAt": "2026-09-06T15:08:50Z",
+  "notes": "AceLink-style automatic updates with checksum verification and parent controls"
+}
