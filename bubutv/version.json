@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.9/bubutv-10.apk",
-  "sha256": "7e9fcc81636ca03da12e776abc92b0144879f6c8d2b502b74e571930c362ce61",
-  "sizeBytes": 9241343,
-  "publishedAt": "2026-09-06T20:16:43Z",
-  "notes": "Automatically repair legacy Ms. Rachel library titles once after upgrade"
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.10/bubutv-11.apk",
+  "sha256": "27c561398653afa881c767bc782e15963b07791ced3c2e2da41f124b3ca5082f",
+  "sizeBytes": 9257727,
+  "publishedAt": "2026-09-06T20:43:55Z",
+  "notes": "Checks for updates whenever BubuTV returns to the foreground, retries network failures after one minute, shows parent update notices only on idle screens, and fixes D-pad focus and seeking on the playback progress bar."
 }
