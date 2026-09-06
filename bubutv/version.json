@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.8/bubutv-9.apk",
-  "sha256": "5551d2b1658cd69f4f94a4fd3581014be21c889000a5b30665d26960a8251d59",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.9/bubutv-10.apk",
+  "sha256": "7e9fcc81636ca03da12e776abc92b0144879f6c8d2b502b74e571930c362ce61",
   "sizeBytes": 9241343,
-  "publishedAt": "2026-09-06T19:59:50Z",
-  "notes": "Clean Ms. Rachel episode titles and preserve curated metadata during library rescans"
+  "publishedAt": "2026-09-06T20:16:43Z",
+  "notes": "Automatically repair legacy Ms. Rachel library titles once after upgrade"
 }
