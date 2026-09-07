@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.14/bubutv-15.apk",
-  "sha256": "0dd5a62e56ac34fd00e6e78058b548ff14d89070d4b5245587930f5c5f6aa846",
-  "sizeBytes": 9257727,
-  "publishedAt": "2026-09-07T20:56:59Z",
-  "notes": "Fixes TV library navigation focus: show details now start on Play, and Back restores the exact originating card or search result."
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.15/bubutv-16.apk",
+  "sha256": "3ebbb26e4cd48d350c10778587b68622922d1a2f660f3dc357f14f3628b398b9",
+  "sizeBytes": 9274111,
+  "publishedAt": "2026-09-07T21:53:38Z",
+  "notes": "Family-photo gallery management with previews and deletion, configurable BubuTV idle slideshow, and Fire TV system-screensaver prevention while the app is foreground."
 }
