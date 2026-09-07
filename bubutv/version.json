@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.10/bubutv-11.apk",
-  "sha256": "27c561398653afa881c767bc782e15963b07791ced3c2e2da41f124b3ca5082f",
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.11/bubutv-12.apk",
+  "sha256": "d2308841f5cd79748117f8a16325ebdd5d1846321e544aa503f5a34c19fdefd0",
   "sizeBytes": 9257727,
-  "publishedAt": "2026-09-06T20:43:55Z",
-  "notes": "Checks for updates whenever BubuTV returns to the foreground, retries network failures after one minute, shows parent update notices only on idle screens, and fixes D-pad focus and seeking on the playback progress bar."
+  "publishedAt": "2026-09-07T15:52:01Z",
+  "notes": "Preserves phone pairing across TV restarts and upgrades, and guides stale mobile sessions back through pairing instead of showing raw JSON errors."
 }
