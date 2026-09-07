@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.13/bubutv-14.apk",
-  "sha256": "627d6a50e057dbe58d5d4b26c9a4e97421730a1dca1e9969aa42c9cc2e04cc75",
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.14/bubutv-15.apk",
+  "sha256": "0dd5a62e56ac34fd00e6e78058b548ff14d89070d4b5245587930f5c5f6aa846",
   "sizeBytes": 9257727,
-  "publishedAt": "2026-09-07T16:57:50Z",
-  "notes": "Adds mobile Library On TV controls, fixes disabled-state sync, and immediately refreshes the TV guide when show availability changes."
+  "publishedAt": "2026-09-07T20:56:59Z",
+  "notes": "Fixes TV library navigation focus: show details now start on Play, and Back restores the exact originating card or search result."
 }
