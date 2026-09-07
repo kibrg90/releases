@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.12/bubutv-13.apk",
-  "sha256": "d608be731d9f14ebc125a4589dd124c993ba8b109d1b1a309655e447fae84a75",
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.13/bubutv-14.apk",
+  "sha256": "627d6a50e057dbe58d5d4b26c9a4e97421730a1dca1e9969aa42c9cc2e04cc75",
   "sizeBytes": 9257727,
-  "publishedAt": "2026-09-07T16:39:24Z",
-  "notes": "Adds paired-phone family-photo uploads to SMB, including photo count, write-permission verification, image validation, and immediate slideshow refresh."
+  "publishedAt": "2026-09-07T16:57:50Z",
+  "notes": "Adds mobile Library On TV controls, fixes disabled-state sync, and immediately refreshes the TV guide when show availability changes."
 }
