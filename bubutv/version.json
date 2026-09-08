@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.15/bubutv-16.apk",
-  "sha256": "3ebbb26e4cd48d350c10778587b68622922d1a2f660f3dc357f14f3628b398b9",
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.16/bubutv-17.apk",
+  "sha256": "56f5bcfd83a696a06bb20d12876955092b3c0e386b0172cacdef260826a36fbf",
   "sizeBytes": 9274111,
-  "publishedAt": "2026-09-07T21:53:38Z",
-  "notes": "Family-photo gallery management with previews and deletion, configurable BubuTV idle slideshow, and Fire TV system-screensaver prevention while the app is foreground."
+  "publishedAt": "2026-09-08T02:31:43Z",
+  "notes": "Fix Fire TV system screensaver taking over the BubuTV family-photo slideshow by making the foreground Activity window the single keep-awake owner."
 }
