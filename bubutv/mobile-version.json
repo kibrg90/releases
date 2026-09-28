@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.11/bubutv-mobile-12.apk",
-  "sha256": "8f8b0c6f06f111b65676d335940a8e7b9432c6081cd7c1ac576c4581c71ffdf2",
-  "sizeBytes": 2535154,
-  "publishedAt": "2026-09-28T13:18:23Z",
-  "notes": "Fix family-photo previews, use a responsive two-column portrait / four-column landscape gallery, add a rule-of-thirds crop frame with a dimmed surrounding image, keep crop actions visible, and restrict pan/zoom gestures to the crop area."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.12/bubutv-mobile-13.apk",
+  "sha256": "1a8de55eb479e5510d3dd9c597015c27899e4485be00ef852e37cf1111757fe3",
+  "sizeBytes": 2551542,
+  "publishedAt": "2026-09-28T16:52:12Z",
+  "notes": "Keep crop and replace actions visible above system navigation. Crop or rotate existing SMB screensaver photos and safely replace the original only after the transformed upload succeeds."
 }
