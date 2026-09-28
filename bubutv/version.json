@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.18/bubutv-19.apk",
-  "sha256": "74e5fb8da40f1c1ec0a18f5053cd2633216e8d575872e37da58c91740ac44fc8",
+  "versionCode": 20,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.19/bubutv-20.apk",
+  "sha256": "fe183c32e77c8bd886b798c6a522de9592870d8e755014f657338e654d3585a0",
   "sizeBytes": 9274111,
-  "publishedAt": "2026-09-28T01:24:07Z",
-  "notes": "TV-friendly family-photo crop presets with preserved framing"
+  "publishedAt": "2026-09-28T01:51:46Z",
+  "notes": "Automatic updates for BubuTV Remote"
 }
