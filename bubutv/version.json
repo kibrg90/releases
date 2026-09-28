@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.17/bubutv-18.apk",
-  "sha256": "76bdc1394d86d2369407de7b085ad8a9f0b026a9c333508907238a96a3d8e03a",
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.18/bubutv-19.apk",
+  "sha256": "74e5fb8da40f1c1ec0a18f5053cd2633216e8d575872e37da58c91740ac44fc8",
   "sizeBytes": 9274111,
-  "publishedAt": "2026-09-27T20:25:49Z",
-  "notes": "Continue Watching now opens the exact episode and resumes saved progress; show details promote the latest resumable episode; TV Mode titles appear only with a more compact control bar; Media3 runtime-check failures now log diagnostics and retry once safely."
+  "publishedAt": "2026-09-28T01:24:07Z",
+  "notes": "TV-friendly family-photo crop presets with preserved framing"
 }
