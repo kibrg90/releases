@@ -1,9 +1,9 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.20",
-    "apkUrl":  "https://github.com/kibrg90/releases/releases/download/bubutv-v1.20/bubutv-21.apk",
-    "sha256":  "4a7a25c12fe957f61e1bc33b1bbc56f15071cf99d74bec8d4a461326cbca9272",
-    "sizeBytes":  9274115,
-    "publishedAt":  "2026-09-28T07:06:47Z",
-    "notes":  "Fix family-photo previews by lazily loading bounded thumbnails and serializing SMB image streams. Add a clearly labelled Rotate 90° crop action."
+  "versionCode": 22,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.21/bubutv-22.apk",
+  "sha256": "4f4b51180246d9bb8ffbde32aaf56290904d22091848d633c91ec63466ca3476",
+  "sizeBytes": 9274115,
+  "publishedAt": "2026-09-28T20:54:26Z",
+  "notes": "Rotate the Browse Library hero round-robin through every playable title and remember the last selection across Browse and app restarts."
 }
