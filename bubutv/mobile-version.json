@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.10/bubutv-mobile-11.apk",
-  "sha256": "2743021ccbe8ab819eea7d588ff914fd7e9e1816c552942085b4ff01691894be",
-  "sizeBytes": 3084058,
-  "publishedAt": "2026-09-28T11:14:01Z",
-  "notes": "Fix Mobile automatic-update downloads by installing the Ktor timeout plugin required by the APK request."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.11/bubutv-mobile-12.apk",
+  "sha256": "8f8b0c6f06f111b65676d335940a8e7b9432c6081cd7c1ac576c4581c71ffdf2",
+  "sizeBytes": 2535154,
+  "publishedAt": "2026-09-28T13:18:23Z",
+  "notes": "Fix family-photo previews, use a responsive two-column portrait / four-column landscape gallery, add a rule-of-thirds crop frame with a dimmed surrounding image, keep crop actions visible, and restrict pan/zoom gestures to the crop area."
 }
