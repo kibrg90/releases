@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.19/bubutv-mobile-9.apk",
-  "sha256": "96579c68e789f4fb61e3c3cc8cd13f1d3b39c40a314ead9cd8800d57c9ef83ee",
-  "sizeBytes": 3067678,
-  "publishedAt": "2026-09-28T01:51:46Z",
-  "notes": "Automatic updates for BubuTV Remote"
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "apkUrl":  "https://github.com/kibrg90/releases/releases/download/bubutv-v1.20/bubutv-mobile-10.apk",
+    "sha256":  "ae88343194b62c742fa0ecfdb359d199f2e240b532f0fc8bd674fd262e469359",
+    "sizeBytes":  3084062,
+    "publishedAt":  "2026-09-28T07:06:47Z",
+    "notes":  "Fix family-photo previews by lazily loading bounded thumbnails and serializing SMB image streams. Add a clearly labelled Rotate 90° crop action."
 }
