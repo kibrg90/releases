@@ -1,9 +1,9 @@
 {
   "versionCode": 13,
   "versionName": "1.12",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.12/bubutv-mobile-13.apk",
-  "sha256": "1a8de55eb479e5510d3dd9c597015c27899e4485be00ef852e37cf1111757fe3",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.22/bubutv-mobile-13.apk",
+  "sha256": "ecbb48163bd4960e07a72cbbffd9d9ee1e790db1ac0c0ebddb861bb29d5dbf3e",
   "sizeBytes": 2551542,
-  "publishedAt": "2026-09-28T16:52:12Z",
-  "notes": "Keep crop and replace actions visible above system navigation. Crop or rotate existing SMB screensaver photos and safely replace the original only after the transformed upload succeeds."
+  "publishedAt": "2026-09-29T05:21:38Z",
+  "notes": "Show episode-specific titles in Continue Watching, with the parent show name underneath."
 }
