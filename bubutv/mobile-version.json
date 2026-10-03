@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.22/bubutv-mobile-13.apk",
-  "sha256": "ecbb48163bd4960e07a72cbbffd9d9ee1e790db1ac0c0ebddb861bb29d5dbf3e",
-  "sizeBytes": 2551542,
-  "publishedAt": "2026-09-29T05:21:38Z",
-  "notes": "Show episode-specific titles in Continue Watching, with the parent show name underneath."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.23/bubutv-mobile-14.apk",
+  "sha256": "e7a4162a4aecf81c234e3f5a99856b7374bea47960f5854758f078c34bb50ed0",
+  "sizeBytes": 2551666,
+  "publishedAt": "2026-10-03T05:41:20Z",
+  "notes": "Fix mobile family-photo crop and replace actions so they stay fully visible on gesture-navigation phones in portrait and landscape."
 }
