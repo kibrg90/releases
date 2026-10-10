@@ -1,9 +1,9 @@
 {
   "versionCode": 14,
   "versionName": "1.13",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.23/bubutv-mobile-14.apk",
-  "sha256": "e7a4162a4aecf81c234e3f5a99856b7374bea47960f5854758f078c34bb50ed0",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.24/bubutv-mobile-14.apk",
+  "sha256": "5499140e9efacf1727cddd3ca85e5f7d587b8845eb979429d5a48f9ded8acf0f",
   "sizeBytes": 2551666,
-  "publishedAt": "2026-10-03T05:41:20Z",
-  "notes": "Fix mobile family-photo crop and replace actions so they stay fully visible on gesture-navigation phones in portrait and landscape."
+  "publishedAt": "2026-10-10T18:43:41Z",
+  "notes": "BubuTV 1.24: Back and show/episode titles now auto-hide with playback controls; passive TV Mode and screensavers have no permanent Back button. Multi-track media exposes a labelled Audio button for switching playable audio tracks. Mobile remains version 1.13."
 }
