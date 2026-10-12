@@ -1,9 +1,9 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.25/bubutv-26.apk",
-  "sha256": "4dd350bb66126f97ff073d7e47d773ecfd244148181333321dfce7326a966b61",
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.26/bubutv-27.apk",
+  "sha256": "0e8f5858edf9b59d1d484f700e93556269880c938663d4541019845397126ab4",
   "sizeBytes": 9274115,
-  "publishedAt": "2026-10-12T04:10:55Z",
-  "notes": "Fix Browse resume after autoplay and Back. Show details now display Resume SxxExx for the latest saved unfinished episode, including after reopening the show. Per-profile saved positions remain compatible; TV Mode never saves resume."
+  "publishedAt": "2026-10-12T06:28:59Z",
+  "notes": "Live library, show details, search and guide refresh; mobile foreground refresh; live TV sleep timer settings; refreshed replacement artwork and family-photo previews; icon-only audio control and compact language picker. Browse resume after autoplay remains profile-specific; TV Mode never saves playback position."
 }
