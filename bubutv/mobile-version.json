@@ -1,9 +1,9 @@
 {
   "versionCode": 14,
   "versionName": "1.13",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.24/bubutv-mobile-14.apk",
-  "sha256": "5499140e9efacf1727cddd3ca85e5f7d587b8845eb979429d5a48f9ded8acf0f",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.25/bubutv-mobile-14.apk",
+  "sha256": "4ef431c1177d1de39c4a9b64fa64eb80547178748e0204d7aeda41c0f56e7e82",
   "sizeBytes": 2551666,
-  "publishedAt": "2026-10-10T18:43:41Z",
-  "notes": "BubuTV 1.24: Back and show/episode titles now auto-hide with playback controls; passive TV Mode and screensavers have no permanent Back button. Multi-track media exposes a labelled Audio button for switching playable audio tracks. Mobile remains version 1.13."
+  "publishedAt": "2026-10-12T04:10:55Z",
+  "notes": "Fix Browse resume after autoplay and Back. Show details now display Resume SxxExx for the latest saved unfinished episode, including after reopening the show. Per-profile saved positions remain compatible; TV Mode never saves resume."
 }
