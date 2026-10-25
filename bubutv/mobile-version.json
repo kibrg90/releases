@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.26/bubutv-mobile-15.apk",
-  "sha256": "1e01621324c6b32b74fb535abf56e57354cbc666627d547b756150629948af2e",
-  "sizeBytes": 2551662,
-  "publishedAt": "2026-10-12T06:28:59Z",
-  "notes": "Live library, show details, search and guide refresh; mobile foreground refresh; live TV sleep timer settings; refreshed replacement artwork and family-photo previews; icon-only audio control and compact language picker. Browse resume after autoplay remains profile-specific; TV Mode never saves playback position."
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.27/bubutv-mobile-16.apk",
+  "sha256": "99237e4af1595db90f9b355e7a19d89f1a9ce3af81ad66790f68323c5a82327c",
+  "sizeBytes": 2584726,
+  "publishedAt": "2026-10-25T18:01:29Z",
+  "notes": "TV 1.27 (28) and Mobile 1.15 (16)\n\nBluetooth capability test is now included in both apps.\nTV: Admin > Settings > Connection > Bluetooth test.\nPhone: Setup > Bluetooth test, or Bluetooth test on the TV connection screen.\nStart Host test on the TV, then Find hosts on the phone and match the host code. Connect and Send test checks a Bluetooth ping; this release does not add Bluetooth playback control or secure pairing. Actual TV Bluetooth capability still needs the device test. Close the screen to stop all test radio work.\n\nAlso includes the reviewed phone crop/preview layout, large-text/inset and remote-screen contrast fixes from this branch. Existing Wi-Fi companion features remain available.\n\nUpdates use the existing signed production packages and updater manifests. The system installer may ask for confirmation.\n"
 }
