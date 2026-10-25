@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.27/bubutv-mobile-16.apk",
-  "sha256": "99237e4af1595db90f9b355e7a19d89f1a9ce3af81ad66790f68323c5a82327c",
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.28/bubutv-mobile-17.apk",
+  "sha256": "56db294d96241694027b5d4a084fbe081f7fbde9b1a26b94e73826e56d10b393",
   "sizeBytes": 2584726,
-  "publishedAt": "2026-10-25T18:01:29Z",
-  "notes": "TV 1.27 (28) and Mobile 1.15 (16)\n\nBluetooth capability test is now included in both apps.\nTV: Admin > Settings > Connection > Bluetooth test.\nPhone: Setup > Bluetooth test, or Bluetooth test on the TV connection screen.\nStart Host test on the TV, then Find hosts on the phone and match the host code. Connect and Send test checks a Bluetooth ping; this release does not add Bluetooth playback control or secure pairing. Actual TV Bluetooth capability still needs the device test. Close the screen to stop all test radio work.\n\nAlso includes the reviewed phone crop/preview layout, large-text/inset and remote-screen contrast fixes from this branch. Existing Wi-Fi companion features remain available.\n\nUpdates use the existing signed production packages and updater manifests. The system installer may ask for confirmation.\n"
+  "publishedAt": "2026-10-25T18:36:58Z",
+  "notes": "TV 1.28 (29) and Mobile 1.16 (17)\n\nFix Bluetooth host discovery with Android 7.1 / Fire TV. The scanner now reads both older and modern advertising formats while still requiring the BubuTV service identifier.\n\nPrepare Bluetooth is now step 0 on both devices. Searches report when no hosts were found, and the last completed or interrupted result stays visible after leaving and returning to the test screen.\n\nTV: Admin > Settings > Connection > Bluetooth test > Prepare Bluetooth > Host test.\nPhone: Bluetooth test > Prepare Bluetooth > Find hosts, match the TV code, Connect > Send test.\nKeep both test screens open; the host window is two minutes and a search lasts ten seconds.\n\nThis remains a Bluetooth capability ping test, not playback control or authenticated pairing. Physical Pixel 8 / Fire TV roundtrip confirmation remains pending.\n"
 }
