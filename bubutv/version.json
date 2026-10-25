@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.28/bubutv-29.apk",
-  "sha256": "695fd50e3ca7cf1493f19c95f894b4bd072d73de20622d65ad3ebf19c2d8a345",
-  "sizeBytes": 9307231,
-  "publishedAt": "2026-10-25T18:36:58Z",
-  "notes": "TV 1.28 (29) and Mobile 1.16 (17)\n\nFix Bluetooth host discovery with Android 7.1 / Fire TV. The scanner now reads both older and modern advertising formats while still requiring the BubuTV service identifier.\n\nPrepare Bluetooth is now step 0 on both devices. Searches report when no hosts were found, and the last completed or interrupted result stays visible after leaving and returning to the test screen.\n\nTV: Admin > Settings > Connection > Bluetooth test > Prepare Bluetooth > Host test.\nPhone: Bluetooth test > Prepare Bluetooth > Find hosts, match the TV code, Connect > Send test.\nKeep both test screens open; the host window is two minutes and a search lasts ten seconds.\n\nThis remains a Bluetooth capability ping test, not playback control or authenticated pairing. Physical Pixel 8 / Fire TV roundtrip confirmation remains pending.\n"
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.29/bubutv-30.apk",
+  "sha256": "e5aa1dd42773b58bed4397db5c263fe7704d50da28d498a9d00ad46f42e015d2",
+  "sizeBytes": 9372803,
+  "publishedAt": "2026-10-25T23:05:17Z",
+  "notes": "Authenticated Bluetooth remote control: prepare Bluetooth, scan the TV QR, approve the phone on the TV. Play/Pause and Browse queue Next. Physical playback acceptance is the next test."
 }
