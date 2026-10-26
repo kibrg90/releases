@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.19/bubutv-mobile-20.apk",
-  "sha256": "14e3f49f0dafa143effcf267a9d04a18181869cd1fe8f5db263ac9a8504e50dd",
-  "sizeBytes": 2717802,
-  "publishedAt": "2026-10-26T01:52:05Z",
-  "notes": "Cleaner remote control and pairing screens, labeled playback icons, compact Bluetooth readiness and simpler player management. Existing pairings are preserved; TV 1.30 and 1.31 are compatible."
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.20/bubutv-mobile-21.apk",
+  "sha256": "c753b9c41eb5a84e2de7f4704ecfc6d7b043afa236c55464c2b30f5712244cb4",
+  "sizeBytes": 2701382,
+  "publishedAt": "2026-10-26T02:11:58Z",
+  "notes": "Removes retired Bluetooth test menus and excludes the diagnostic activity from production. Use Remote control for normal Bluetooth pairing and playback. Existing pairings are preserved."
 }
