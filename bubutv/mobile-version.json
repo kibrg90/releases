@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.29/bubutv-mobile-18.apk",
-  "sha256": "4e5325a408bbfe6f17071291d2bb46e50974a3410ae774c9a12980e15c8f9fca",
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.18/bubutv-mobile-19.apk",
+  "sha256": "645fa26fa82eda2731ed111fc417e16a306781a310c92abd674a40f22733d440",
   "sizeBytes": 2717802,
-  "publishedAt": "2026-10-25T23:05:17Z",
-  "notes": "Authenticated Bluetooth remote control: prepare Bluetooth, scan the TV QR, approve the phone on the TV. Play/Pause and Browse queue Next. Physical playback acceptance is the next test."
+  "publishedAt": "2026-10-26T01:26:16Z",
+  "notes": "Keeps scanned QR setup when returning from the camera or recreating the app, resumes Bluetooth discovery, and distinguishes QR scanned, paired and connected. Scan the TV QR, choose Connect and control, then Approve phone on the TV. TV 1.30 stays compatible."
 }
