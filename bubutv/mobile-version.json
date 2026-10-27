@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-mobile-v1.21/bubutv-mobile-22.apk",
-  "sha256": "e651c6e86df4feec6b4cdf2d4593d61853206f0226974a29a270d5162819bf6d",
-  "sizeBytes": 2701382,
-  "publishedAt": "2026-10-26T02:39:58Z",
-  "notes": "Friendlier Now Playing connection errors: clear Wi-Fi steps, Try again, TV connection settings and a Bluetooth remote option. Technical timeout details are hidden; Wi-Fi pairing keeps its separate prompt. No TV update needed."
+  "versionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.33/bubutv-mobile-23.apk",
+  "sha256": "bd2537052c43c0e289227df36459b70a3b1cd5b6e542c069552a6f0ab4dd4263",
+  "sizeBytes": 3119665,
+  "publishedAt": "2026-10-27T19:34:30Z",
+  "notes": "TV 1.33 and BubuTV Remote 1.22\n\n- Refreshed native TV admin and library pages, nested settings, and phone remote/setup screens with a consistent visual system.\n- Improved Bluetooth player selection, pairing guidance and connection feedback.\n- Protected schedule edits against accidental changes and duplicate saves; failed saves keep the draft for retry.\n- Improved large-text layouts, TV PIN entry focus and content removal placement.\n\nProduction TV and phone updates only. Experimental Android Auto/car-control builds remain local.\r\n"
 }
