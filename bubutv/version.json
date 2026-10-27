@@ -1,9 +1,9 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.30/bubutv-31.apk",
-  "sha256": "89977ceda8191985d0b6845d9c8e5dcf0d4675564f20a74c0fa32657a68bdc6e",
-  "sizeBytes": 9372803,
-  "publishedAt": "2026-10-25T23:57:15Z",
-  "notes": "TV pairing QR now stays fully visible while navigating and approving a phone. Open Bluetooth remote control and choose Pair a phone again. Phone 1.17 stays compatible; no phone update needed."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.33/bubutv-34.apk",
+  "sha256": "87d0603d6a00f71fe83e31e9ef674b3ce315fa4a85a2055a0ed75d1be7b82212",
+  "sizeBytes": 9661335,
+  "publishedAt": "2026-10-27T19:34:30Z",
+  "notes": "TV 1.33 and BubuTV Remote 1.22\n\n- Refreshed native TV admin and library pages, nested settings, and phone remote/setup screens with a consistent visual system.\n- Improved Bluetooth player selection, pairing guidance and connection feedback.\n- Protected schedule edits against accidental changes and duplicate saves; failed saves keep the draft for retry.\n- Improved large-text layouts, TV PIN entry focus and content removal placement.\n\nProduction TV and phone updates only. Experimental Android Auto/car-control builds remain local.\r\n"
 }
