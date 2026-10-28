@@ -1,9 +1,9 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.33/bubutv-mobile-23.apk",
-  "sha256": "bd2537052c43c0e289227df36459b70a3b1cd5b6e542c069552a6f0ab4dd4263",
+  "versionCode": 24,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.34/bubutv-mobile-24.apk",
+  "sha256": "d38a55552775629713f48fce4e801d3c13b33a30ac39cd9b553dcc7abedfc3fa",
   "sizeBytes": 3119665,
-  "publishedAt": "2026-10-27T19:34:30Z",
-  "notes": "TV 1.33 and BubuTV Remote 1.22\n\n- Refreshed native TV admin and library pages, nested settings, and phone remote/setup screens with a consistent visual system.\n- Improved Bluetooth player selection, pairing guidance and connection feedback.\n- Protected schedule edits against accidental changes and duplicate saves; failed saves keep the draft for retry.\n- Improved large-text layouts, TV PIN entry focus and content removal placement.\n\nProduction TV and phone updates only. Experimental Android Auto/car-control builds remain local.\r\n"
+  "publishedAt": "2026-10-28T03:48:46Z",
+  "notes": "TV 1.34 and BubuTV Remote 1.23\n\n- Keep parent Admin access unlocked for ten minutes after a successful PIN check.\n- Improve artwork caching, browsing/history refresh and playback connection reuse.\n- Load visible photo previews efficiently; keep full originals for editing and limit cache/download size.\n- Improve startup and programme-generation work, with safer database migration and restore handling.\n- Simplify internal TV/phone architecture while preserving playback and pairing behavior.\n\nProduction TV and phone updates. Android Auto/car prototypes remain local.\n"
 }
