@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.34/bubutv-35.apk",
-  "sha256": "09fea66bab7f4ad54584a48a54b926b4a54f9c502ab2e1ac6c324b680b503764",
-  "sizeBytes": 9677719,
-  "publishedAt": "2026-10-28T03:48:46Z",
-  "notes": "TV 1.34 and BubuTV Remote 1.23\n\n- Keep parent Admin access unlocked for ten minutes after a successful PIN check.\n- Improve artwork caching, browsing/history refresh and playback connection reuse.\n- Load visible photo previews efficiently; keep full originals for editing and limit cache/download size.\n- Improve startup and programme-generation work, with safer database migration and restore handling.\n- Simplify internal TV/phone architecture while preserving playback and pairing behavior.\n\nProduction TV and phone updates. Android Auto/car prototypes remain local.\n"
+  "versionCode": 36,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.35/bubutv-36.apk",
+  "sha256": "a1d95abca841ce03c8d977a018f85777b0990a45f29e77dfdd58e2f09795335f",
+  "sizeBytes": 9694063,
+  "publishedAt": "2026-10-30T15:04:09Z",
+  "notes": "TV 1.35 and BubuTV Remote 1.24: redesigned Browse library and show details, with polished nested TV and phone settings."
 }
