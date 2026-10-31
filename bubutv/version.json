@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.36/bubutv-37.apk",
-  "sha256": "ab3d4aaf7712a26050977d45b33012b27111a9155d9d23959ac3b7e03c4096cc",
-  "sizeBytes": 9726907,
-  "publishedAt": "2026-10-30T20:41:32Z",
-  "notes": "TV 1.36 and BubuTV Remote 1.25: support for readable local or attached-drive media folders on TV, preserved libraries and watch history when switching sources, and more reliable local artwork and backup recovery."
+  "versionCode": 38,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.37/bubutv-38.apk",
+  "sha256": "74fffa7682960940ba98aee4b5d562d45bd2c57baf92a1f6c7cdf523319e8ae0",
+  "sizeBytes": 9743291,
+  "publishedAt": "2026-10-31T02:13:55Z",
+  "notes": "TV 1.37 and BubuTV Remote 1.26: Admin Back now returns to the previous screen, and focus borders match pill, custom-radius, and circular controls without edge gaps."
 }
