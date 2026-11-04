@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.37/bubutv-38.apk",
-  "sha256": "74fffa7682960940ba98aee4b5d562d45bd2c57baf92a1f6c7cdf523319e8ae0",
+  "versionCode": 39,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.38/bubutv-39.apk",
+  "sha256": "d50f689b54e95eabc3f06b48377d6830bb3f0967cf841ecd1c8abf68c031f57c",
   "sizeBytes": 9743291,
-  "publishedAt": "2026-10-31T02:13:55Z",
-  "notes": "TV 1.37 and BubuTV Remote 1.26: Admin Back now returns to the previous screen, and focus borders match pill, custom-radius, and circular controls without edge gaps."
+  "publishedAt": "2026-11-04T20:00:03Z",
+  "notes": "TV 1.38 and BubuTV Remote 1.27: brighter kid-friendly Library and show details, localized playback controls that keep video visible, a two-column phone photo gallery, contextual Admin Back navigation, and shape-matched focus borders."
 }
