@@ -1,9 +1,9 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.39/bubutv-mobile-28.apk",
-  "sha256": "950ca8c4340e16a1b11e5901d558eba33e67dd55b44228b16868eb25bea902ef",
-  "sizeBytes": 3119621,
-  "publishedAt": "2026-11-07T08:51:41Z",
-  "notes": "TV 1.39: visible Scan Now remote focus; scans open content containers and find nested shows; rescans remove confirmed missing library entries while preserving disconnected files and other saved drives. DVD formats still require conversion. Mobile remains 1.27."
+  "versionCode": 29,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.40/bubutv-mobile-29.apk",
+  "sha256": "ceeb4f4cc62af7d29e57ebaa0a64849ca14ffd73179cf8372209cb1edbebac24",
+  "sizeBytes": 3136005,
+  "publishedAt": "2026-11-07T18:18:03Z",
+  "notes": "TV 1.40 and Mobile 1.28: centralized button components across the apps, consistent shapes and theme colors, and visible remote focus with a separated coral ring. Includes disabled-state, selection and dark-theme icon fixes."
 }
