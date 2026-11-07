@@ -1,9 +1,9 @@
 {
   "versionCode": 28,
   "versionName": "1.27",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.38/bubutv-mobile-28.apk",
-  "sha256": "c42a64b94d0e358c15bda204f895374dc371b4fa4eb25af309b0ea354d2c33c7",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.39/bubutv-mobile-28.apk",
+  "sha256": "950ca8c4340e16a1b11e5901d558eba33e67dd55b44228b16868eb25bea902ef",
   "sizeBytes": 3119621,
-  "publishedAt": "2026-11-04T20:00:03Z",
-  "notes": "TV 1.38 and BubuTV Remote 1.27: brighter kid-friendly Library and show details, localized playback controls that keep video visible, a two-column phone photo gallery, contextual Admin Back navigation, and shape-matched focus borders."
+  "publishedAt": "2026-11-07T08:51:41Z",
+  "notes": "TV 1.39: visible Scan Now remote focus; scans open content containers and find nested shows; rescans remove confirmed missing library entries while preserving disconnected files and other saved drives. DVD formats still require conversion. Mobile remains 1.27."
 }
