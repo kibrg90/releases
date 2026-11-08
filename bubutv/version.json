@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.40/bubutv-41.apk",
-  "sha256": "d22511397c19570509521400b526abe29421276151f7331237b2d2af5541c831",
-  "sizeBytes": 9743291,
-  "publishedAt": "2026-11-07T18:18:03Z",
-  "notes": "TV 1.40 and Mobile 1.28: centralized button components across the apps, consistent shapes and theme colors, and visible remote focus with a separated coral ring. Includes disabled-state, selection and dark-theme icon fixes."
+  "versionCode": 42,
+  "versionName": "1.41",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.41/bubutv-42.apk",
+  "sha256": "4a7d7fda19726d3fbc0a1c7206d850b43302de8e4d69823efb019c6989ec22c9",
+  "sizeBytes": 9558468,
+  "publishedAt": "2026-11-08T23:14:32Z",
+  "notes": "TV 1.41 and Mobile 1.29: fixes AVI audio timing, duplicate episode numbering with an automatic one-time library repair scan, moved-library artwork recovery, rounded card focus, carousel edge clipping, and playback focus-ring clearance."
 }
