@@ -1,9 +1,9 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.41/bubutv-42.apk",
-  "sha256": "4a7d7fda19726d3fbc0a1c7206d850b43302de8e4d69823efb019c6989ec22c9",
+  "versionCode": 43,
+  "versionName": "1.42",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/bubutv-v1.42/bubutv-43.apk",
+  "sha256": "ee857f00bb1ab3085b17f2ec6a92bc778bd8ee492d37291937157e37c6de8e39",
   "sizeBytes": 9558468,
-  "publishedAt": "2026-11-08T23:14:32Z",
-  "notes": "TV 1.41 and Mobile 1.29: fixes AVI audio timing, duplicate episode numbering with an automatic one-time library repair scan, moved-library artwork recovery, rounded card focus, carousel edge clipping, and playback focus-ring clearance."
+  "publishedAt": "2026-11-09T01:58:48Z",
+  "notes": "TV 1.42 keeps focus rings visible in the Browse header and on show and movie detail pages. Mobile 1.30 is the companion build for this release."
 }
