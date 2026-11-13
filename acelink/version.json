@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.7",
-  "apkUrl": "https://github.com/kibrg90/releases/releases/download/acelink-v0.2.7/acelink-9.apk",
-  "sha256": "9a62930f35f03cb6393d50ba43260d51249b0ab5291c4bc61b3e350065395c66",
+  "versionCode": 10,
+  "versionName": "0.2.8",
+  "apkUrl": "https://github.com/kibrg90/releases/releases/download/acelink-v0.2.8/acelink-10.apk",
+  "sha256": "7241262977a3741494be5ffb145c99c1156232cf3bdd6f18d6048e7b485ad005",
   "sizeBytes": 4077074,
-  "publishedAt": "2026-11-06T18:40:09Z",
-  "notes": "Refreshed TV navigation, channel screens, and remote focus styling."
+  "publishedAt": "2026-11-13T06:38:46Z",
+  "notes": "Fix"
 }
